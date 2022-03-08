@@ -582,10 +582,10 @@
   "edit-note": "Can edit notes",
   "delete-note": "Can delete notes",
   "write-note": "Can create notes",
-  "see-athleteCategory": "Can see athleteCategories",
-  "edit-athleteCategory": "Can edit athleteCategories",
-  "delete-athleteCategory": "Can delete athleteCategories",
-  "write-athleteCategory": "Can create athleteCategories",
+  "see-athleteCategory": "Can see athlete categories",
+  "edit-athleteCategory": "Can edit athlete categories",
+  "delete-athleteCategory": "Can delete athlete categories",
+  "write-athleteCategory": "Can create athlete categories",
   "see-rating": "Can see ratings",
   "edit-rating": "Can edit ratings",
   "delete-rating": "Can delete ratings",
@@ -718,5 +718,7 @@
   "lost": "lost",
   "draw": "draw",
   "selectResult": "Select result",
-  "opponent": "Opponent"
+  "opponent": "Opponent",
+  "note": "Note",
+  "athleteCategory": "athlete categories"
 }

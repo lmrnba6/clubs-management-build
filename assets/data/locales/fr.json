@@ -551,7 +551,7 @@
   "addSkill": "Ajouter une compétence",
   "editSkill": "Modifier la compétence",
   "skills": "Compétences",
-  "skill": "compétence",
+  "skill": "Compétence",
   "newSkill": "Nouvelle compétence",
   "deleteAthleteQuestion": "Voulez-vous vraiment supprimer cet athlète ?",
   "athleteCreatedSuccessfully": "Athlète créé avec succès",
@@ -721,5 +721,7 @@
   "lost": "Perdu",
   "draw": "Égalité",
   "selectResult": "Sélectionner le résultat",
-  "opponent": "Adversaire"
+  "opponent": "Adversaire",
+  "note": "Note",
+  "athleteCategory": "catégories d'athlètes"
 }

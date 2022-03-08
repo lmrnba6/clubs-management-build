@@ -719,5 +719,7 @@
   "lost": "خسارةُ",
   "draw": "ة",
   "selectResult": "اختر نتيجة",
-  "opponent": "الخصم"
+  "opponent": "الخصم",
+  "note": "الملاحظات",
+  "athleteCategory": "فئات الرياضيين"
 }
